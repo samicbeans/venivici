@@ -1,6 +1,6 @@
-# Web Development Project 4 - W
+# Web Development Project 4 - **Discover dogs on this giant Earth!**
 
-Submitted by: **Discover dogs on this giant Earth!**
+Submitted by: Sami Chen
 
 This web app: **Allows users to discover new dogs by clicking a button to display a random dog. Users are able to filter attributes so that future dogs will not have any attributes that the user doesn't want**
 
